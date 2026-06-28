@@ -99,15 +99,3 @@ python scripts/03_compare_agents.py
 python scripts/04_run_scientist_loop.py
 streamlit run app.py
 ```
-
-## Suggested GitHub repository name
-
-```text
-causal-neural-ode-world-model-lab
-```
-
-## Suggested description
-
-```text
-Causal Neural ODE and intervention-driven world-model agents for active discovery in dynamical systems.
-```
